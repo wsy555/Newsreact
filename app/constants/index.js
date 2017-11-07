@@ -1,0 +1,4 @@
+export const USERINFO_LOGIN = 'USERINFO_LOGIN'
+export const UPDATE_CITYNAME = 'UPDATE_CITYNAME'
+export const ACTIVE_PAGE = 'ACTIVE_PAGE'
+export const DRAWER_OPEN = 'DRAWER_OPEN'
